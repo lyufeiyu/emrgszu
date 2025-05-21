@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yu Zhou's Group</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+    <!-- 顶部导航栏 -->
+    <header class="navbar">
+        <div class="container">
+            <h3 class="site-title" id="site-title">Evolution Multimedia Research Group</h3>
+            <!-- <a href="#" id="lang-switch" class="nav-link" style="font-weight:bold">中文</a> -->
+            <nav class="nav-links">
+                <a href="#home" class="nav-link active" data-page="home">Home</a>
+                <a href="#member" class="nav-link" data-page="member">Members</a>
+                <a href="#contact" class="nav-link" data-page="project">Projects</a>
+                <a href="#" id="lang-switch" class="nav-link">中文</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <!-- 主体区域：左侧介绍 + 右侧内容 -->
+    <main class="container main-layout">
+        <!-- 左栏：个人简介 -->
+        <aside class="sidebar">
+            <div class="profile-card">
+                <img src="images/avatar.jpg" alt="Yu Zhou Avatar" class="avatar" />
+                <h4 id="profile-name">Yu Zhou</h4>
+                <div class="profile-info">
+                    <p class="profile-line" id="profile-institute-label"><strong>Institute:</strong></p>
+                    <ul class="research-list" id="profile-institute">
+                        <li>Research Institute for Future Media Computing</li>
+                        <li>Shenzhen University</li>
+                    </ul>
+
+                    <p class="profile-line" id="profile-area-label"><strong>Research Areas:</strong></p>
+                    <ul class="research-list" id="profile-areas">
+                        <li>Multimodal Information Processing under Resource Constraints</li>
+                        <li>Intelligent Optimization Algorithms and Applications</li>
+                        <li>Distributed Evolutionary Learning Systems</li>
+                    </ul>
+                </div>
+
+                <hr />
+                <div class="social-icons">
+                    <a href="https://scholar.google.com/citations?user=7i308qgAAAAJ" target="_blank"
+                        title="Google Scholar">
+                        <img src="images/google-scholar.svg" alt="Google Scholar Icon" class="icon" />
+                    </a>
+                    <a href="https://orcid.org/0000-0002-3224-0063" title="ORCID">
+                        <img src="images/orcid_.svg" alt="ORCID Icon" class="icon" />
+                    </a>
+                    <a href="mailto:yu.zhou@szu.edu.cn" title="Email">
+                        <img src="images/email.svg" alt="Email Icon" class="icon" />
+                    </a>
+                </div>
+            </div>
+        </aside>
+
+
+        <!-- 右栏：内容区域（JS 动态注入） -->
+        <section class="content-area fade-transition" id="content-area">
+            <!-- 内容将由 script.js 注入 -->
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
