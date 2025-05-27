@@ -234,7 +234,7 @@ const pages = {
             contentArea.innerHTML = `
                 <section class="project-section">
                     <a href="#project" style="color:#0066cc;font-weight:bold;">${translations[currentLang].returnHome}</a>
-                    <h2>${title}</h2>
+                    <h1>${title}</h1>
                     ${content}
                 </section>
             `;
