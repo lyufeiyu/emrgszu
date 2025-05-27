@@ -8,18 +8,18 @@ const translations = {
     en: {
         home: "Home",
         member: "Members",
-        project: "Projects",
+        project: "Researches",
         featured: "Featured Posts",
         degree: "Degree",
         school: "School",
         direction: "Research Direction",
-        returnHome: "← Return Projects",
+        returnHome: "← Return Researches",
         readMore: "Read more..."
     },
     zh: {
         home: "主页",
         member: "成员",
-        project: "项目总览",
+        project: "研究总览",
         featured: "精选文章",
         degree: "学位",
         school: "学校",

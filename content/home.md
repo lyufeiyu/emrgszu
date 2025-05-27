@@ -21,7 +21,7 @@ _We strive to design elegant and efficient learning systems through intelligent 
 We warmly welcome students who are curious, self-driven, and passionate about research to join our group. Our lab maintains an open, collaborative, and inspiring research atmosphere, where students enjoy close mentorship, active discussions, and a strong sense of community. With stable funding from national and regional projects, we provide solid support for academic exploration, conference travel, and personal development. Many of our students have published in top-tier venues, won competitive awards. If you are interested in evolutionary computation, intelligent optimization, or learning systems, we sincerely invite you to explore opportunities with us!
 
 📧 **Email:** [yu.zhou@szu.edu.cn](mailto:yu.zhou@szu.edu.cn)  
-📍 **Location:** Office 412, Zhiteng Building, Yuehai Campus, Shenzhen University.
+📍 **Location:** Office 411, Zhiteng Building, Yuehai Campus, Shenzhen University.
 
 ---
 

@@ -5,9 +5,6 @@ Our research group focuses on the following key directions: Evolutionary Machine
 
 <h2 style="color: #003399;">Evolutionary Machine Learning</h2>
 
-Evolutionary Machine Learning (EML) is a subfield of Artificial Intelligence that integrates principles from evolutionary algorithms and machine learning. At its core, EML mimics the process of natural selection—using population-based operations such as selection, crossover, and mutation—to iteratively optimize candidate solutions. This enables the construction of intelligent systems that can adapt and improve performance over time. EML is particularly effective in tackling complex optimization and learning tasks where traditional approaches may struggle, such as feature selection, robotic path planning, and multi-objective optimization.
-
-
 
 ### 📄 Representative Papers from Our Group
 
@@ -77,17 +74,6 @@ Evolutionary Machine Learning (EML) is a subfield of Artificial Intelligence tha
 
 <h2 style="color: #003399;">Action Recognition</h2>
 
-Human Activity Recognition is a key branch of computer vision that aims to understand and classify human behaviors from video or sensor data. It covers a wide range of tasks such as detecting walking, running, jumping, etc., and is widely applied in:
-
-- Intelligent surveillance systems  
-- Human-computer interaction (HCI)  
-- Sports motion analysis  
-- Video-based behavior monitoring systems  
-
-By analyzing motion features across the temporal dimension, HAR provides essential support for intelligent video understanding and behavioral reasoning.
-
-
-
 ### 📄 Representative Publications
 
 #### 1. A Hybrid Attention-Based Deep Neural Network for Simultaneous Multi-Sensor Pruning and Human Activity Recognition  
@@ -105,17 +91,6 @@ By analyzing motion features across the temporal dimension, HAR provides essenti
 ---
 
 <h2 style="color: #003399;">Compressed Sensing</h2>
-
-Compressed Sensing (CS) is an advanced signal processing technique that enables efficient compression and accurate reconstruction of signals. It is based on the observation that many real-world signals are inherently sparse or can be represented using only a few significant coefficients. By capturing far fewer measurements than traditional sampling methods, CS allows for effective recovery of the original signal.
-
-Applications of compressed sensing include:
-
-- Image and video compression  
-- Medical imaging (e.g., MRI)  
-- Efficient data transmission in wireless communication  
-
-Compressed sensing is critical for improving acquisition speed, reducing transmission bandwidth, and enhancing overall system efficiency.
-
 
 
 ### 📄 Representative Publications
