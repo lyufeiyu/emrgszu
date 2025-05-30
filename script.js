@@ -8,23 +8,25 @@ const translations = {
     en: {
         home: "Home",
         member: "Members",
-        project: "Researches",
+        publication: "Publications",  // 修改为publication
+        projects: "Projects",
         featured: "Featured Posts",
         degree: "Degree",
         school: "School",
         direction: "Research Direction",
-        returnHome: "← Return Researches",
+        returnHome: "← Return Publications",  // 修改
         readMore: "Read more..."
     },
     zh: {
         home: "主页",
         member: "成员",
-        project: "研究总览",
+        publication: "论文",  // 修改为publication
+        projects: "项目",
         featured: "精选文章",
         degree: "学位",
         school: "学校",
         direction: "研究方向",
-        returnHome: "← 返回项目总览",
+        returnHome: "← 返回论文总览",  // 修改
         readMore: "阅读全文..."
     },
     returnSubprojectMap: {
@@ -46,9 +48,29 @@ const translations = {
 function switchLanguage() {
     currentLang = currentLang === 'en' ? 'zh' : 'en';
     document.getElementById("lang-switch").textContent = currentLang === 'en' ? '中文' : 'English';
-    document.getElementById("site-title").textContent = currentLang === 'zh' ? '进化多媒体研究小组' : 'Evolution Multimedia Research Group';
+    
+    // 修改这一行 - 旧代码
+    // document.getElementById("site-title").textContent = currentLang === 'zh' ? '进化多媒体研究小组' : 'Evolution Multimedia Research Group';
+    
+    // 新代码 - 更新为EMC格式
+    const siteTitle = document.getElementById("site-title");
+    if (currentLang === 'zh') {
+        siteTitle.innerHTML = `
+            <div class="site-title-main">
+                <span class="letter-e">E</span><span class="letter-m">M</span><span class="letter-c">C</span> 课题组
+            </div>
+            <div class="site-title-sub">进化多媒体计算</div>
+        `;
+    } else {
+        siteTitle.innerHTML = `
+            <div class="site-title-main">
+                <span class="letter-e">E</span><span class="letter-m">M</span><span class="letter-c">C</span> RESEARCH GROUP
+            </div>
+            <div class="site-title-sub">Evolvable Multimedia Computing</div>
+        `;
+    }
 
-    const navMap = ['home', 'member', 'project'];
+    const navMap = ['home', 'member', 'publication', 'projects'];
     navMap.forEach((key, i) => {
         navLinks[i].textContent = translations[currentLang][key];
     });
@@ -67,6 +89,30 @@ function switchLanguage() {
         pages.home();
     }
 }
+// function switchLanguage() {
+//     currentLang = currentLang === 'en' ? 'zh' : 'en';
+//     document.getElementById("lang-switch").textContent = currentLang === 'en' ? '中文' : 'English';
+//     document.getElementById("site-title").textContent = currentLang === 'zh' ? '进化多媒体研究小组' : 'Evolution Multimedia Research Group';
+
+//     const navMap = ['home', 'member', 'project'];
+//     navMap.forEach((key, i) => {
+//         navLinks[i].textContent = translations[currentLang][key];
+//     });
+
+//     updateSidebarContent();
+
+//     if (currentPage === 'post' && currentPostId) {
+//         pages.post(currentPostId);
+//     } else if (currentPage === 'subproject' && currentPostId) {
+//         pages.subproject(currentPostId);
+//     } else if (currentPage === 'paper' && currentPostId) {
+//         pages.paper(currentPostId);
+//     } else if (pages[currentPage]) {
+//         pages[currentPage]();
+//     } else {
+//         pages.home();
+//     }
+// }
 
 function updateSidebarContent() {
     const sidebarText = {
@@ -145,7 +191,7 @@ const pages = {
         fadeOutIn(async () => {
             const file = currentLang === 'zh' ? "content/home.zh.md" : "content/home.md";
             const content = await loadMarkdownFile(file);
-            contentArea.innerHTML = `<section class="project-section">${content}</section>`;
+            contentArea.innerHTML = `<section class="publication-section">${content}</section>`;
         });
     },
 
@@ -159,13 +205,23 @@ const pages = {
         });
     },
 
-    project: async () => {
-        currentPage = 'project';
+    publication: async () => {
+        currentPage = 'publication';
         currentPostId = null;
         fadeOutIn(async () => {
-            const file = currentLang === 'zh' ? "content/project.zh.md" : "content/project.md";
+            const file = currentLang === 'zh' ? "content/publication.zh.md" : "content/publication.md";
             const content = await loadMarkdownFile(file);
-            contentArea.innerHTML = `<section class="project-section"><h2>${translations[currentLang].project}</h2>${content}</section>`;
+            contentArea.innerHTML = `<section class="publication-section"><h2>${translations[currentLang].publication}</h2>${content}</section>`;
+        });
+    },
+
+    projects: async () => {
+        currentPage = 'projects';
+        currentPostId = null;
+        fadeOutIn(async () => {
+            const file = currentLang === 'zh' ? "content/projects.zh.md" : "content/projects.md";
+            const content = await loadMarkdownFile(file);
+            contentArea.innerHTML = `<section class="projects-section"><h2>${translations[currentLang].projects}</h2>${content}</section>`;
         });
     },
 
@@ -232,8 +288,8 @@ const pages = {
 
         fadeOutIn(() => {
             contentArea.innerHTML = `
-                <section class="project-section">
-                    <a href="#project" style="color:#0066cc;font-weight:bold;">${translations[currentLang].returnHome}</a>
+                <section class="publication-section">
+                    <a href="#publication" style="color:#0066cc;font-weight:bold;">${translations[currentLang].returnHome}</a>
                     <h1>${title}</h1>
                     ${content}
                 </section>

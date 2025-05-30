@@ -1,10 +1,18 @@
 Our research group focuses on the following key directions: Evolutionary Machine Learning, Action Recognition, and Compressed Sensing.
 
----
----
-
-<h2 style="color: #003399;">Evolutionary Machine Learning</h2>
-
+<details open>
+  <summary style="
+    list-style: none;
+    display: block;
+    background-color: #e6f0ff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 12.5px 0;
+    margin-top: 25px;
+  " onclick="this.removeAttribute('open');">
+    <h2 style="color: #003399; margin: 0;">Evolutionary Machine Learning</h2>
+  </summary>
 
 ### 📄 Representative Papers from Our Group
 
@@ -68,11 +76,22 @@ Our research group focuses on the following key directions: Evolutionary Machine
 - **Journal**: IEEE Transactions on Cybernetics (TCYB)  
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/7515224/)
 
+</details>
 
----
----
 
-<h2 style="color: #003399;">Action Recognition</h2>
+
+<details open>
+  <summary style="
+    list-style: none;
+    display: block;
+    background-color: #e6f0ff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 12.5px 0;
+  " onclick="this.removeAttribute('open');">
+    <h2 style="color: #003399; margin: 0;">Action Recognition</h2>
+  </summary>
 
 ### 📄 Representative Publications
 
@@ -87,11 +106,22 @@ Our research group focuses on the following key directions: Evolutionary Machine
 - **Authors**: Yu Zhou, Chuanshi Xie  
 - **Journal**: IEEE Sensors Journal
 
----
----
+</details>
 
-<h2 style="color: #003399;">Compressed Sensing</h2>
 
+
+<details open>
+  <summary style="
+    list-style: none;
+    display: block;
+    background-color: #e6f0ff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 12.5px 0;
+  " onclick="this.removeAttribute('open');">
+    <h2 style="color: #003399; margin: 0;">Compressed Sensing</h2>
+  </summary>
 
 ### 📄 Representative Publications
 
@@ -112,3 +142,9 @@ Our research group focuses on the following key directions: Evolutionary Machine
 - **Authors**: Yu Zhou, Mengyuan Wu, Ke Li, Ruiqi Wang  
 - **Journal**: IEEE Transactions on Cybernetics (TCYB)  
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/7900408/)
+
+</details>
+
+
+
+

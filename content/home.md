@@ -1,5 +1,5 @@
 
-## Welcome to Yu Zhou's Research Group!
+## Welcome to EMC RESEARCH GROUP!
 
 <div style="text-align: center;">
   <img src="images/合影.jpg" alt="Group Photo" style="width:80%; border-radius: 10px; margin-bottom: 1rem;" />

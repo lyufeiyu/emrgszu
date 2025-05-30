@@ -1,8 +1,8 @@
-## 欢迎来到周宇课题组！
+## 欢迎来到 EMC 课题组！
 
 <div style="text-align: center;">
   <img src="images/合影.jpg" alt="合照" style="width:80%; border-radius: 10px; margin-bottom: 1rem;" />
-</div>
+</div> 
 
 我们是隶属于**深圳大学计算机与软件学院·未来媒体计算研究院**的研究团队，专注于以下方向的理论基础与应用实践：
 

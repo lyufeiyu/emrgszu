@@ -1,13 +1,20 @@
 我们研究组课题组的研究方向包括：演化机器学习、动作识别、压缩感知
 
-<h2 style="color: #003399;">演化机器学习</h2>
+<details open>
+  <summary style="
+    list-style: none;
+    display: block;
+    background-color: #e6f0ff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 12.5px 0;
+    margin-top: 25px;
+  " onclick="this.removeAttribute('open');">
+    <h2 style="color: #003399; margin: 0;">演化机器学习</h2>
+  </summary>
 
-演化机器学习（Evolutionary Machine Learning，EML）是人工智能的一个子领域，它融合了进化算法与机器学习的原理。EML 的核心在于模拟自然选择的过程——通过选择、交叉和变异等基于种群的操作来迭代优化候选解决方案。这种方法使得构建能够随时间适应并提升性能的智能系统成为可能。EML 在应对传统方法难以处理的复杂优化与学习任务时表现出色，例如特征选择、机器人路径规划以及多目标优化等。
-
----
----
-
-### 📄 课题组代表性论文
+  ### 📄 课题组代表性论文
 
 #### 1. Feature Selection for High-Dimensional Data Based on a Multi-objective Particle Swarm Optimization with Self-adjusting Strategy Pool
 - **Authors**: Yu Zhou, Yigang Peng, Raiqi Wang, Diandian Yu  
@@ -68,21 +75,22 @@
 - **Journal**: IEEE Transactions on Cybernetics (TCYB)  
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/7515224/)
 
+</details>
 
----
----
 
-<h2 style="color: #003399;">动作识别</h2>
 
-动作识别是计算机视觉的一个重要方向，旨在从视频或传感器数据中理解与分类人类的行为。它涵盖多种任务，如识别行走、跑步、跳跃等动作，广泛应用于：
-
-- 智能监控系统  
-- 人机交互界面  
-- 体育动作分析  
-- 视频行为感知与监测系统  
-
-通过分析时间维度上的运动特征，动作识别可为智能视频理解与行为推理提供关键支撑。
-
+<details open>
+  <summary style="
+    list-style: none;
+    display: block;
+    background-color: #e6f0ff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 25px 0;
+  " onclick="this.removeAttribute('open');">
+    <h2 style="color: #003399; margin: 0;">动作识别</h2>
+  </summary>
 
 ### 📄 课题组代表性论文
 
@@ -97,22 +105,21 @@
 - **Authors**: Yu Zhou, Chuanshi Xie  
 - **Journal**: IEEE Sensors Journal
 
----
----
-
-<h2 style="color: #003399;">压缩感知</h2>
-
-压缩传感是一种现代信号处理技术，能够实现信号的高效压缩与精确重建。其基本原理是：现实世界中的许多信号是稀疏的，即可通过少数关键系数进行表达。压缩传感通过获取远少于传统方法所需的数据采样点，也能准确重构原始信号。
-
-这种技术广泛应用于以下领域：
-
-- 图像与视频压缩  
-- 医疗成像（如MRI）  
-- 无线通信中的高效数据传输  
-
-压缩传感在节省采集时间、降低传输带宽、提升系统效率等方面具有重要意义。
+</details>
 
 
+<details open>
+  <summary style="
+    list-style: none;
+    display: block;
+    background-color: #e6f0ff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 25px 0;
+  " onclick="this.removeAttribute('open');">
+    <h2 style="color: #003399; margin: 0;">压缩感知</h2>
+  </summary>
 
 ### 📄 课题组代表性论文
 
@@ -133,3 +140,7 @@
 - **Authors**: Yu Zhou, Mengyuan Wu, Ke Li, Ruiqi Wang  
 - **Journal**: IEEE Transactions on Cybernetics (TCYB)  
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/7900408/)
+
+
+</details>
+
