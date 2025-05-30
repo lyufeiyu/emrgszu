@@ -1,4 +1,6 @@
-Our research group focuses on the following key directions: Evolutionary Machine Learning, Action Recognition, and Compressed Sensing.
+Our research group delves into a dynamic and forward-looking spectrum of research areas, with a particular emphasis on three core directions: Evolutionary Machine Learning, which explores the intersection of biological evolution principles and advanced learning algorithms; Action Recognition, dedicated to the development of cutting-edge techniques for understanding and analyzing human behaviors in various scenarios; and Compressed Sensing, aiming to revolutionize data acquisition and processing through innovative sampling strategies. 
+
+The papers showcased below merely represent a curated selection of our recent scholarly contributions. For a more comprehensive view of our research output, we invite you to visit Prof. Zhou Yu's Google Scholar profile, where an extensive collection of our publications awaits your exploration. 
 
 <details open>
   <summary style="
