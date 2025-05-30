@@ -17,13 +17,14 @@
   ### 📄 课题组代表性论文
 
 #### 1. Feature Selection for High-Dimensional Data Based on a Multi-objective Particle Swarm Optimization with Self-adjusting Strategy Pool
-- **Authors**: Yu Zhou, Yigang Peng, Raiqi Wang, Diandian Yu  
-- **Journal**: Neural Computing for Advanced Applications (NCA 2022)  
+- **Authors**: Yingyu Peng, Ruiqi Wang, Dandan Yu, Yu Zhou
+- **Journal**: Neural Computing for Advanced Applications (NCAA 2022)  
 - [Paper Link](https://link.springer.com/chapter/10.1007/978-981-19-6142-7_39)
 
 
+
 #### 2. Feature library-assisted surrogate model for evolutionary wrapper-based feature selection and classification
-- **Authors**: Yu Zhou, Hainan Guo, Jianan Ma, Raiqi Wang  
+- **Authors**: Yu Zhou, Hainan Guo, Junnan Ma, Ruiqi Wang  
 - **Journal**: Applied Soft Computing (ASOC)  
 - [Paper Link](https://www.sciencedirect.com/science/article/pii/S1568494623002594)｜[Code Link](https://github.com/EMRGSZU/papers-code/tree/main/FL-SM)
 
@@ -42,7 +43,6 @@
 - [Paper Link](https://www.sciencedirect.com/science/article/pii/S1568494620307328)
 
 
-
 #### 5. An evolutionary multi-objective optimization framework of discretization-based feature selection for classification
 - **Authors**: Yu Zhou, Junhao Kang, Sam Kwong, Xu Wang, Qingfu Zhang  
 - **Journal**: Swarm and Evolutionary Computation (SWEVO)  
@@ -51,9 +51,10 @@
 
 
 #### 6. A problem-specific non-dominated sorting genetic algorithm for supervised feature selection
-- **Authors**: Yu Zhou, Weijun Zhang, Junhao Kang, Xiao Zhang, Xu Wang  
+- **Authors**: Yu Zhou, Wenjun Zhang, Junhao Kang, Xiao Zhang, Xu Wang  
 - **Journal**: Information Sciences (INS)  
 - [Paper Link](https://doi.org/10.1016/j.ins.2020.08.083)｜[Code Link](https://github.com/EMRGSZU/papers-code/tree/main/PS-NSGA)
+
 
 
 #### 7. Many-objective optimization of feature selection based on two-level particle cooperation
@@ -74,6 +75,7 @@
 - **Authors**: Yu Zhou, Xiao Zhang, Qingfu Zhang, Victor C.S. Lee, Mianing Li  
 - **Journal**: IEEE Transactions on Cybernetics (TCYB)  
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/7515224/)
+
 
 </details>
 
@@ -101,9 +103,10 @@
 
 
 
-#### 2. Self-Supervised Human Activity Recognition via Body Sensor Networks in Smart Cities  
-- **Authors**: Yu Zhou, Chuanshi Xie  
-- **Journal**: IEEE Sensors Journal
+#### 2. Self-Supervised Human Activity Recognition via Body Sensor Networks in Smart City  
+- **Authors**: Yu Zhou, Chuanshi Xie, Shilong Sun, Xiao Zhang, Yufan Wang
+- **Journal**: IEEE Sensors Journal(JSEN)
+- [Paper Link](https://ieeexplore.ieee.org/abstract/document/10147042)｜[Code Link](https://github.com/EMRGSZU/papers-code)
 
 </details>
 
@@ -124,10 +127,11 @@
 ### 📄 课题组代表性论文
 
 
-#### 1. A Lightweight Recurrent Learning Network for Sustainable Compressed Sensing  
+#### 1. A Lightweight Recurrent Learning Network for Sustainable Compressed Sensing
 - **Authors**: Yu Zhou, Yu Chen, Pan Lai, Lei Huang, Jianmin Jiang  
 - **Journal**: IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)  
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/10124723)｜[Code Link](https://github.com/C66YU/CSRN)
+
 
 
 #### 2. Collaborative Block Compressed Sensing Reconstruction with Dual-Domain Sparse Representation  
