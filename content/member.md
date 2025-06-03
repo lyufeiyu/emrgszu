@@ -47,60 +47,86 @@ Here is an introduction to the members of our research group, including current 
 
 <div style="background-color: rgb(83, 163, 103); color: white; padding: 10px; border-radius: 5px;">&emsp;Graduated Graduate Students</div>
 
-- **Yu Chen (2020–2023)**  
+* **Chuanshi Xie (2021–2024)**
 
-  &emsp;**Research Topic**: Distributed Compressed Sensing, Image Processing  
+   **Research Interests**: Action Recognition
+   
+   **Employment**: Huawei Terminal, Dongguan
 
-  &emsp;**Current Affiliation**: OPPO, Shenzhen
+* **Wei Xie (2021–2024)**
 
-- **Haowen Xia (2020–2023)**  
+   **Research Interests**: Action Recognition, Compressed Sensing
 
-  &emsp;**Research Topic**: High-dimensional Data Clustering  
+   **Employment**: TIEYUE Electric, Shenzhen
 
-  &emsp;**Current Affiliation**: State Grid Hubei Materials Company, Wuhan
+* **Lin Gao (2021–2024)**
 
-- **Zhaodi Yang (2020–2023)**
+   **Research Interests**: Multi-objective Optimization
 
-  &emsp;**Research Direction**: Multi-Sensor Action Recognition
+   **Employment**: OneConnect Financial Technology, Shenzhen
 
-  &emsp;**Career Path after Graduation**: Shenzhen Tax Bureau
+* **Bosong Lin (2021–2024)**
 
-- **Junnan Ma (2020–2023)**  
+   **Research Interests**: Time Series Forecasting
 
-  &emsp;**Research Topic**: Evolutionary Computation, Surrogate Models 
+   **Employment**: Shenzhen RealLink, Shenzhen
 
-  &emsp;**Current Affiliation**: Huawei
+* **Nanjian Yang (2021–2024)**
 
-- **Yan Qiu (2020–2023)**  
+   **Research Interests**: Multi-objective Optimization, Evolutionary Computation
 
-  &emsp;**Research Topic**: Local Feature Selection, Evolutionary Computation  
+   **Employment**: Tencent, Shenzhen
 
-  &emsp;**Current Affiliation**: Huawei Cloud, Dongguan
+* **Yu Chen (2020–2023)**
 
+   **Research Interests**: Distributed Compressed Sensing, Image Processing
 
-- **Ruiqi Wang (2020–2023)**  
+   **Employment**: OPPO, Shenzhen
 
-  &emsp;**Research Topic**: Particle Swarm Optimization  
+* **Haowen Xia (2020–2023)**
 
-  &emsp;**Current Affiliation**: Guangzhou Immigration Inspection Station
+   **Research Interests**: High-dimensional Data Clustering Algorithms
 
-- **Chuanshi Xie (2021–2024)**  
+   **Employment**: State Grid Hubei Materials Company, Wuhan
 
-  &emsp;**Research Topic**: Action Recognition
+* **Zhuodi Yang (2020–2023)**
 
-- **Wei Xie (2021–2024)**  
+   **Research Interests**: Multi-sensor Action Recognition
 
-  &emsp;**Research Topic**: Action Recognition, Compressed Sensing
+   **Employment**: Shenzhen Tax Bureau, Shenzhen
 
-- **Lin Gao (2021–2024)**  
+* **Junnan Ma (2020–2023)**
 
-  &emsp;**Research Topic**: Multi-objective Optimization
+   **Research Interests**: Evolutionary Computation, Surrogate Modeling
 
-- **Bosong Lin (2021–2024)**  
+   **Employment**: Huawei GTS, Dongguan
 
-  &emsp;**Research Topic**: Time Series Forecasting
+* **Yan Qiu (2020–2023)**
 
-- **Nanjian Yang (2021–2024)**  
+   **Research Interests**: Localized Feature Selection, Evolutionary Computation
 
-  &emsp;**Research Topic**: Multi-objective Optimization, Evolutionary Computation
+   **Employment**: Huawei Cloud, Dongguan
 
+* **Ruiqi Wang (2020–2023)**
+
+   **Research Interests**: Particle Swarm Optimization
+
+   **Employment**: Guangzhou Immigration Inspection Station, Guangzhou
+
+* **Chi Ma (2019–2022)**
+
+   **Research Interests**: Compressed Sensing
+
+   **Employment**: Agriculture Bureau of Shunde District, Foshan
+
+* **Junhao Kang (2018–2021)**
+
+   **Research Interests**: Evolutionary Computation
+
+   **Employment**: ByteDance, Beijing
+
+* **Jiping Lin (2017–2020)**
+
+   **Research Interests**: Evolutionary Computation, Feature Selection
+  
+   **Employment**: China Southern Power Grid, Guangzhou
