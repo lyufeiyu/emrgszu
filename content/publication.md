@@ -74,7 +74,7 @@ The papers showcased below merely represent a curated selection of our recent sc
 
 
 #### 9. Problem Specific MOEA/D for Barrier Coverage with Wireless Sensors
-- **Authors**: Yu Zhou, Xiao Zhang, Qingfu Zhang, Victor C.S. Lee, Mianing Li  
+- **Authors**: Yu Zhou, Xiao Zhang, Qingfu Zhang, Victor C.S. Lee, Minming Li
 - **Journal**: IEEE Transactions on Cybernetics (TCYB)  
 - [Paper Link](https://ieeexplore.ieee.org/abstract/document/7515224/)
 
