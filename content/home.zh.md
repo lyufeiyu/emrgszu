@@ -28,16 +28,24 @@
 
 <div class="news-container">
   <div class="news-item">
-    <span class="news-icon">📘</span>
-    <span class="news-text">发布《多目标优化方法综述》长文</span>
-    <span class="news-date">2025年4月4日</span>
+    <span class="news-text">2026级计划招收 3-4 名学生。</span>
+    <span class="news-date">2025年10月1日</span>
   </div>
   <div class="news-item">
-    <span class="news-icon">🏆</span>
-    <span class="news-text">三位同学荣获 GECCO 2025 分会最佳论文奖</span>
-    <span class="news-date">2025年3月18日</span>
+    <span class="news-text">2025级计划招收 3-4 名学生。</span>
+    <span class="news-date">2024年10月27日</span>
   </div>
   <div class="news-item">
+    <!-- <span class="news-icon">📘</span> -->
+    <span class="news-text">2024级计划招收 3-4 名学生。</span>
+    <span class="news-date">2023年11月9日</span>
+  </div>
+  <div class="news-item">
+    <!-- <span class="news-icon">🏆</span> -->
+    <span class="news-text">祝贺高麟发表 IEEE TIM 论文！</span>
+    <span class="news-date">2023年9月2日</span>
+  </div>
+  <!-- <div class="news-item">
     <span class="news-icon">💰</span>
     <span class="news-text">成功获批跨模态优化重大专项资助</span>
     <span class="news-date">2025年2月2日</span>
@@ -46,7 +54,7 @@
     <span class="news-icon">🎓</span>
     <span class="news-text">两位本科生被国际顶级高校博士项目录取</span>
     <span class="news-date">2025年1月8日</span>
-  </div>
+  </div> -->
 </div>
 
 ---

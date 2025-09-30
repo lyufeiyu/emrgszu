@@ -29,24 +29,22 @@ We warmly welcome students **who are curious, self-driven, and passionate about 
 
 <div class="news-container">
   <div class="news-item">
-    <span class="news-icon">📘</span>
-    <span class="news-text">Published a comprehensive survey on Multi-Objective Optimization</span>
-    <span class="news-date">April 4, 2025</span>
+    <span class="news-text">The 2026 cohort plans to enroll 3-4 students.</span>
+    <span class="news-date">October 1, 2025</span>
   </div>
   <div class="news-item">
-    <span class="news-icon">🏆</span>
-    <span class="news-text">Three students won Best Paper Award at GECCO 2025 Workshop</span>
-    <span class="news-date">March 18, 2025</span>
+    <span class="news-text">The 2025 cohort plans to enroll 3-4 students.</span>
+    <span class="news-date">October 27, 2024</span>
   </div>
   <div class="news-item">
-    <span class="news-icon">💰</span>
-    <span class="news-text">Received funding for cross-modal optimization project</span>
-    <span class="news-date">February 2, 2025</span>
+    <!-- <span class="news-icon">📘</span> -->
+    <span class="news-text">The 2024 cohort plans to enroll 3-4 students.</span>
+    <span class="news-date">November 9, 2023</span>
   </div>
   <div class="news-item">
-    <span class="news-icon">🎓</span>
-    <span class="news-text">Two undergraduates were accepted to top global PhD programs</span>
-    <span class="news-date">January 8, 2025</span>
+    <!-- <span class="news-icon">🏆</span> -->
+    <span class="news-text">Congratulations to Lin Gao on publishing a paper in IEEE TIM!</span>
+    <span class="news-date">September 2, 2023</span>
   </div>
 </div>
 
