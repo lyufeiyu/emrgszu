@@ -14,7 +14,8 @@
     margin: 12.5px 0;
     margin-top: 25px;
   " onclick="this.removeAttribute('open');">
-    <h2 style="color: #003399; margin: 0;">演化机器学习</h2>
+    <!-- <h2 style="color: #003399; margin: 0;">演化机器学习</h2> -->
+    <h2 style="color: #003399; margin: 0; font-size: 1.2rem;">演化机器学习 <span style="font-size: 0.8rem;">(点击可折叠/展开)</span></h2>
   </summary>
 
   ### 📄 课题组代表性论文

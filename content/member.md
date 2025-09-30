@@ -39,7 +39,7 @@ Here is an introduction to the members of our research group, including current 
 
 - **Guanghua Lv (since 2024)**  
 
-  &emsp;**Research Topic**: Evolutionary Algorithm Design with Large Model Assistance
+  &emsp;**Research Topic**: Evolutionary Algorithm Design with Large Language Model Assistance
 
 
 

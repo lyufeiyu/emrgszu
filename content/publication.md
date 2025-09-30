@@ -13,7 +13,7 @@ The papers showcased below merely represent a curated selection of our recent sc
     margin: 12.5px 0;
     margin-top: 25px;
   " onclick="this.removeAttribute('open');">
-    <h2 style="color: #003399; margin: 0;">Evolutionary Machine Learning</h2>
+    <h2 style="color: #003399; margin: 0; font-size: 1.2rem;">Evolutionary Machine Learning <span style="font-size: 0.8rem;">(Click to collapse and expand)</span></h2>
   </summary>
 
 ### 📄 Representative Papers from Our Group
